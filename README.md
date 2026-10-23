@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivek-kumar-8b8a0b246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/vivek-fullstack"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://vivekportfolio23.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:vivekvb@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Vivek-27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -237,7 +237,7 @@ I am a **Software Engineer** specializing in **full-stack engineering, distribut
 I am always open to discussing new projects, software architecture, tech opportunities, or collaborations.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivek-kumar-8b8a0b246/">
+  <a href="https://www.linkedin.com/in/vivek-fullstack/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
