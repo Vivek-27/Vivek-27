@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Hi%20there,%20I'm%20Vivek%20Kumar%20👋&fontSize=38&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Cloud%20%26%20Distributed%20Systems&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Hi%20there,%20I'm%20Vivek%20Kumar%20👋&fontSize=38&fontAlignY=38&desc=AWS%20Certified%20%7C%20Full-Stack%20%26%20Generative%20AI%20Engineer%20%7C%20Distributed%20Systems&descFontSize=17&descAlignY=62" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Typing Header -->
 <a href="https://github.com/Vivek-27">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Full-Stack+MERN+%26+Cloud+Developer;Building+Scalable+Distributed+Systems;Architecting+Infrastructure+on+AWS+with+Terraform;Event-Driven+Architecture+(Kafka+%2B+Redis);PyTorch+Computer+Vision+%26+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=AWS+Certified+(Developer+%2B+Data+Engineer);Generative+AI+%26+LLM+Pipelines+(LangChain+%2B+LCEL);Full-Stack+MERN+%26+Cloud+Architecture;Building+Scalable+Distributed+Systems+(Kafka+%2B+Redis);PyTorch+Computer+Vision+%26+Deep+Learning" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -19,16 +19,42 @@
 
 </div>
 
+## 🏆 Certifications & Credentials
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20--%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer Associate" />
+      <br /><br />
+      <b>AWS Certified Developer – Associate (DVA-C02)</b>
+      <p align="left">
+        Validated competency in developing, deploying, and debugging cloud-native applications on AWS. Core focus on serverless architectures (Lambda, API Gateway), containerization (ECS Fargate, ECR), security (IAM, Secrets Manager, KMS), and CI/CD pipelines.
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer%20--%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Certified Data Engineer Associate" />
+      <br /><br />
+      <b>AWS Certified Data Engineer – Associate (DEA-C01)</b>
+      <p align="left">
+        Validated skills in architecting data ingestion pipelines, transformations, storage architectures, and big data orchestration. Expertise across S3 Data Lakes, Glue, Athena, Redshift, Kinesis streaming, and security governance.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** specializing in **full-stack engineering, distributed systems, and cloud infrastructure**. I build production-ready applications with robust backend architectures, event-driven streaming, and automated DevOps pipelines.
+I am a **Software Engineer** specializing in **full-stack engineering, generative AI systems, and cloud infrastructure**. I build production-grade applications that combine robust backend architectures, event-driven streaming, and automated DevOps workflows.
 
-- 🔭 **Current Focus**: Architecting scalable real-time microservices and cloud deployments on **AWS**.
+- 🔭 **Current Focus**: Architecting Generative AI applications with **LangChain & LCEL** and cloud-native microservices on **AWS**.
 - 🛠️ **Engineering Highlights**:
-  - Built **Oxima**, an Indian nationwide ride-hailing system with **Redis Geospatial**, **Apache Kafka** telemetry, and **OSRM turn-by-turn routing**.
-  - Designed production-grade AWS infrastructure with **Terraform**, **ECS Fargate**, **ALB**, **CloudFront**, and **GitHub Actions OIDC CI/CD**.
-  - Implemented computer vision Presentation Attack Detection (PAD) models using **PyTorch (ResNet-18)**.
-- 🎯 **Looking For**: Opportunities to contribute to high-impact engineering teams building resilient, scalable products.
+  - Engineered **Oxima**, a nationwide ride-hailing system leveraging **Redis Geospatial**, **Apache Kafka** telemetry, and **OSRM turn-by-turn routing**.
+  - Built production-grade AWS infrastructure with **Terraform**, **ECS Fargate**, **ALB**, **CloudFront**, and **GitHub Actions OIDC CI/CD**.
+  - Authored a comprehensive **LangChain LCEL & LLM toolkit** implementing Runnables, parallel chains, and document ingestion pipelines.
+  - Deployed computer vision Presentation Attack Detection (PAD) models using **PyTorch (ResNet-18)**.
+- 🎯 **Looking For**: Opportunities to contribute to high-impact teams building scalable distributed systems, cloud architectures, and GenAI solutions.
 
 ---
 
@@ -69,9 +95,24 @@ I am a **Software Engineer** specializing in **full-stack engineering, distribut
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">🤖 Generative AI & LangChain Toolkit</h3>
+      <p align="center">
+        <a href="https://github.com/Vivek-27/generative-ai-langchain-toolkit">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+        </a>
+      </p>
+      <p>Comprehensive GenAI architecture toolkit implementing modern LCEL runnables, prompt pipelines, and document loaders.</p>
+      <ul>
+        <li><b>LCEL Mastery:</b> RunnableSequence, RunnableParallel, and RunnablePassthrough chain orchestration.</li>
+        <li><b>Deterministic Output:</b> Pydantic schema enforcement and structured JSON output parsers.</li>
+        <li><b>RAG Pipeline:</b> Multi-source document loaders (Directory, Web, Lazy loading).</li>
+        <li><b>Stack:</b> Python, LangChain, LCEL, OpenAI GPT-4o, HuggingFace, Pydantic.</li>
+      </ul>
+    </td>
+    <td width="50%">
       <h3 align="center">📅 Event Management REST API</h3>
       <p align="center">
-        <a href="https://github.com/Vivek-27/Event_Management_API">
+        <a href="https://github.com/Vivek-27/event-management-api">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
@@ -83,10 +124,12 @@ I am a **Software Engineer** specializing in **full-stack engineering, distribut
         <li><b>Stack:</b> Node.js, Express, PostgreSQL, RESTful architecture.</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🧠 Presentation Attack Detection (PAD)</h3>
       <p align="center">
-        <a href="https://github.com/Vivek-27/PAD_Backend">
+        <a href="https://github.com/Vivek-27/deepfake-detection-pad-api">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
@@ -98,12 +141,10 @@ I am a **Software Engineer** specializing in **full-stack engineering, distribut
         <li><b>Stack:</b> Python, PyTorch, Torchvision, Flask, Pillow.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <h3 align="center">✅ Task Management System</h3>
+      <h3 align="center">✅ TaskFlow Management App</h3>
       <p align="center">
-        <a href="https://github.com/Vivek-27/Task-Management-App">
+        <a href="https://github.com/Vivek-27/taskflow-mern-app">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
         <a href="https://task-management-app-frontend-i5ab.onrender.com">
@@ -117,20 +158,6 @@ I am a **Software Engineer** specializing in **full-stack engineering, distribut
         <li><b>Stack:</b> React (Vite), TailwindCSS, Node.js, Express, MongoDB.</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3 align="center">📊 Maven Market Analytics Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/Vivek-27/Maven_Market_Dashboard">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
-        </a>
-      </p>
-      <p>End-to-end Power BI business intelligence dashboard analyzing multi-country supermarket operations.</p>
-      <ul>
-        <li><b>Data Modeling:</b> Snowflake/Star schema relationship models across transactions and inventory.</li>
-        <li><b>Advanced DAX:</b> Measures for profit margins, YoY revenue trends, and customer lifetime value.</li>
-        <li><b>Stack:</b> Power BI, DAX, Data Modeling, Excel/CSV datasets.</li>
-      </ul>
-    </td>
   </tr>
 </table>
 
@@ -140,15 +167,57 @@ I am a **Software Engineer** specializing in **full-stack engineering, distribut
 
 <table align="center">
   <tr>
-    <td align="right" width="22%"><b>Languages</b></td>
+    <td align="right" width="22%"><b>Generative AI & LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LCEL_Runnables-black?style=flat-square" alt="LCEL" />
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-0055FF?style=flat-square" alt="Prompt Engineering" />
+      <img src="https://img.shields.io/badge/RAG_Pipelines-00A67E?style=flat-square" alt="RAG" />
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/AWS_ECS_Fargate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="ECS" />
+      <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Distributed Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
+      <img src="https://img.shields.io/badge/Redis_Geospatial-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
+      <img src="https://img.shields.io/badge/Microservices-326CE5?style=flat-square" alt="Microservices" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST" />
     </td>
   </tr>
   <tr>
@@ -163,28 +232,6 @@ I am a **Software Engineer** specializing in **full-stack engineering, distribut
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Backend & APIs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST" />
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Distributed Systems & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-    </td>
-  </tr>
-  <tr>
     <td align="right"><b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -193,7 +240,7 @@ I am a **Software Engineer** specializing in **full-stack engineering, distribut
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Data & ML</b></td>
+    <td align="right"><b>Data Science & ML</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" />
@@ -234,7 +281,7 @@ I am a **Software Engineer** specializing in **full-stack engineering, distribut
 
 ## 📬 Let's Connect!
 
-I am always open to discussing new projects, software architecture, tech opportunities, or collaborations.
+I am always open to discussing distributed systems, generative AI, cloud infrastructure, or software engineering opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vivek-fullstack/">
@@ -251,5 +298,5 @@ I am always open to discussing new projects, software architecture, tech opportu
 </p>
 
 <p align="center">
-  <sub>⭐️ Profile designed with care. Open to full-stack & cloud engineering roles!</sub>
+  <sub>⭐️ Profile engineered with passion. Open to full-stack, cloud & AI engineering roles!</sub>
 </p>
